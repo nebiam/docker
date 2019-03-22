@@ -1,1 +1,1 @@
-# docker
+# docker-compose file for use with docker
